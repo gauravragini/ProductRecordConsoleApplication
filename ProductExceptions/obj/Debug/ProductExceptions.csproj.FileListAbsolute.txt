@@ -1,0 +1,5 @@
+I:\source\ado\PresentationLayer\ProductExceptions\bin\Debug\ProductExceptions.dll
+I:\source\ado\PresentationLayer\ProductExceptions\bin\Debug\ProductExceptions.pdb
+I:\source\ado\PresentationLayer\ProductExceptions\obj\Debug\ProductExceptions.csproj.CoreCompileInputs.cache
+I:\source\ado\PresentationLayer\ProductExceptions\obj\Debug\ProductExceptions.dll
+I:\source\ado\PresentationLayer\ProductExceptions\obj\Debug\ProductExceptions.pdb

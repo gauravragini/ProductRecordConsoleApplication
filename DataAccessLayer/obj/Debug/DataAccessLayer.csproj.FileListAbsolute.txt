@@ -1,0 +1,16 @@
+C:\Users\Ragini\source\repos\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ragini\source\repos\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ragini\source\repos\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ragini\source\repos\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ragini\source\repos\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+I:\source\ado\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+I:\source\ado\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+I:\source\ado\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+I:\source\ado\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+I:\source\ado\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+I:\source\ado\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+I:\source\ado\PresentationLayer\DataAccessLayer\bin\Debug\ProductExceptions.dll
+I:\source\ado\PresentationLayer\DataAccessLayer\bin\Debug\ProductExceptions.pdb
+I:\source\ado\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+I:\source\ado\PresentationLayer\DataAccessLayer\bin\Debug\productEntity.dll
+I:\source\ado\PresentationLayer\DataAccessLayer\bin\Debug\productEntity.pdb

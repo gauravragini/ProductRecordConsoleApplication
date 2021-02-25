@@ -1,0 +1,5 @@
+I:\source\ado\PresentationLayer\productEntity\bin\Debug\productEntity.dll
+I:\source\ado\PresentationLayer\productEntity\bin\Debug\productEntity.pdb
+I:\source\ado\PresentationLayer\productEntity\obj\Debug\productEntity.csproj.CoreCompileInputs.cache
+I:\source\ado\PresentationLayer\productEntity\obj\Debug\productEntity.dll
+I:\source\ado\PresentationLayer\productEntity\obj\Debug\productEntity.pdb

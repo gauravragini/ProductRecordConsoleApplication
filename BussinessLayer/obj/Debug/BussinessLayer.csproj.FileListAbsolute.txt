@@ -1,0 +1,13 @@
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\BussinessLayer.dll
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\BussinessLayer.pdb
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\DataAccessLayer.dll
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+I:\source\ado\PresentationLayer\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+I:\source\ado\PresentationLayer\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+I:\source\ado\PresentationLayer\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+I:\source\ado\PresentationLayer\BussinessLayer\obj\Debug\BussinessLayer.dll
+I:\source\ado\PresentationLayer\BussinessLayer\obj\Debug\BussinessLayer.pdb
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\ProductExceptions.dll
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\ProductExceptions.pdb
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\productEntity.dll
+I:\source\ado\PresentationLayer\BussinessLayer\bin\Debug\productEntity.pdb
